@@ -1,0 +1,7 @@
+LeadID,Name,PhoneNumber,AvailableSlots,BookedSlot,Status,BookingTime
+1,Alice Khan,+923001234567,"Mon 3 PM;Tue 4 PM;Wed 1 PM",,Pending,
+2,Omar Lee,+14155556666,"Fri 10 AM;Fri 2 PM",,Pending,
+3,Sarah Patel,+919800112233,"Tue 9 AM;Thu 11 AM;Fri 5 PM",,Pending,
+4,David Chen,+8613800138000,"Mon 10 AM;Wed 2 PM",,Pending,
+5,Maria Garcia,+34123456789,"Tue 1 PM;Thu 4 PM;Fri 3 PM",,Pending,
+6,Fahad Abdullah,+923266121925,"Fri 1 PM;Fri 4 PM;Fri 3 PM",,Pending,

@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+twilio
+elevenlabs
+gspread
+google-auth
+pydantic
+ngrok
